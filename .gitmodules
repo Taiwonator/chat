@@ -1,0 +1,3 @@
+[submodule "simple-chat-client"]
+	path = simple-chat-client
+	url = git@github.com:Taiwonator/simple-chat-client.git
