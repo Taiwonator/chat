@@ -4,6 +4,6 @@ This repository contains various chat applications built with different technolo
 
 ## Submodules
 
-### [Simple Chat Application]([simple-chat-client/README.md](https://github.com/Taiwonator/simple-chat-client/tree/master))
+### [Simple Chat Application](https://github.com/Taiwonator/simple-chat-client/tree/master)
 Demo - [chat.michaeltaiwo.com](https://chat.michaeltaiwo.com/)
 
